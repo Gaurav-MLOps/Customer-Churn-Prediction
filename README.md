@@ -107,4 +107,3 @@ Frameworks: Scikit-learn, Streamlit, Imbalanced-Learn.
 ### 👤 Author
 
 Gaurav Singh
-AI/ML & MLOps Learner | Building real-world ML projects

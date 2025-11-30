@@ -24,14 +24,15 @@ This project includes:
 
 ## 📁 Project Structure
 
+```txt
 customer-churn-prediction/
-│── app.py                     # Streamlit app
-│── model.pkl                  # Saved ML model
-│── Telco-Customer-Churn.csv   # Dataset
-│── README.md                  # Project documentation
-│── requirements.txt           # Dependencies
+│── app.py                         # Streamlit app
+│── model.pkl                      # Saved ML model
+│── Telco-Customer-Churn.csv       # Dataset
+│── README.md                      # Project documentation
+│── requirements.txt               # Dependencies
 │── Customer_Churn_Analysis.ipynb  # Jupyter notebook (training)
-
+```
 
 ---
 
